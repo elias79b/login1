@@ -1,0 +1,76 @@
+.col-lg-6 .login-form {
+    background: white;
+    height: 100vh;
+    padding: 30px;
+    text-align: center;
+}
+.hey{
+    padding-bottom: 5px;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    padding-right: 230px;
+}
+.Enter-the-info{
+    font-weight: 200;
+    color: gray;
+    padding-bottom: 50px;
+    padding-right: 80px;
+}
+label{
+    display: block;
+    margin-right: 300px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    font-size: 1em;
+}
+ .input-group input{
+    border: none;
+    border-radius: 5px;
+    background : white;
+    border: 1px solid gray;
+    margin-top: 5px;
+    padding: 5px;
+    color: white;
+    width: 50%;
+    outline: none;
+    
+}
+#ww{
+    justify-content: space-evenly;
+    padding: 20px 80px;
+    color: gray;
+}
+#ww:hover{
+    cursor: pointer;
+}
+
+.col-lg-6 .img{
+    background-image: linear-gradient(99deg, rgba(146,236,255,1) 12%, rgba(172,125,255,1) 52%, rgba(237,171,255,1) 70%);
+    height: 100vh;
+    padding: 30px;
+    color: whitesmoke;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 40%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.col-lg-6 .img .b{
+    color: blue;
+}
+
+.submit-btn-container input{
+    border : none;
+    border-radius: 35px;
+    background-image: linear-gradient(99deg, rgba(146,236,255,1) 12%, rgba(172,125,255,1) 52%, rgba(237,171,255,1) 70%);
+    color: white;
+    padding: 10px 40px;
+    font-size: 1.4em;
+    letter-spacing: 2px;
+    width: 50%;
+    cursor: pointer;
+}
+
